@@ -1,9 +1,7 @@
-# my_octave
+# my_octave - Covei Denis
 Program to manipulate operations between matrices
 
-# Covei Denis - 312CA
-
-    Ierarhia proiectului este urmatoarea:
+Ierarhia proiectului este urmatoarea:
     - types_and_defs.h
 		* contine definitii de constante si tipuri de date folosite
 
