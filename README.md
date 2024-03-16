@@ -44,7 +44,7 @@ Operatiile in functie de codificare:
 - operatia M: inmulteste doua matrici si pune rezultatul la sfarsit in
                 lista dupa formula clasica de inmultire
 
-    c_{ij} = \sum_{k=1}^{p} a_{ik} \cdot b_{kj}, \quad \text{where} \quad i = 1, \ldots, n, \quad j = 1, \ldots, m
+   \[ c_{ij} = \sum_{k=1}^{p} a_{ik} \cdot b_{kj}, \quad \text{where} \quad i = 1, \ldots, n, \quad j = 1, \ldots, m \]
 
 - (BONUS) operatia S: inmulteste doua matrici folosind algoritmul lui 
                         Strassen; implementarea este recursiva, astfel
