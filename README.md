@@ -44,9 +44,7 @@ Operatiile in functie de codificare:
 - operatia M: inmulteste doua matrici si pune rezultatul la sfarsit in
                 lista dupa formula clasica de inmultire
 
-                                            p
-    c(n,m) = a(n,p) * b(p,m) cu c_ij = suma a_ik * b_kj, cu i = 1 ... n
-                                        k=1                 j = 1 ... m
+    c(n,m) = a(n,p) * b(p,m) cu c_ij = suma(a_ik * b_kj), unde k = 1...p, cu i = 1 ... n, j = 1 ... m
 
 - (BONUS) operatia S: inmulteste doua matrici folosind algoritmul lui 
                         Strassen; implementarea este recursiva, astfel
